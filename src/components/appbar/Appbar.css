@@ -1,0 +1,30 @@
+.appbar {
+  width: 100%;
+
+  border-bottom: 1px solid var(--border-color);
+  height: 83px;
+  z-index: 1;
+  background-color: var(--main-color);
+}
+.appbar > div:first-child {
+  border-right: 1px solid var(--border-color);
+  width: 20%;
+  margin: 0;
+}
+p,
+h1,
+h2,
+h3,
+h4,
+h5 {
+  color: var(--text-color2);
+}
+.icon {
+  color: var(--text-color2);
+}
+.iconSmile {
+  color: rgb(249, 253, 5);
+}
+.mainLogo{
+  width: 60px;
+}

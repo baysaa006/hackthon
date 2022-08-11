@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=Source+Serif+Pro:wght@200;300;400&display=swap");
+:root {
+  --brand-color: #9d003ad2;
+  --main-color: #171c28;
+  --bg-color: #2c354a;
+  --text-color: #b5bfd6;
+  --text-color2: #ffffff;
+  --border-color: #2e2f32;
+  --font-light: ;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "Source Serif Pro", serif;
+  background-color: var(--main-color);
+}
+
+.app {
+  height: 100vh;
+  padding: 0;
+  margin: 0;
+}
+.text-color {
+  color: #b5bfd6;
+}
+.text-color2 {
+  color: var(--text-color2);
+}
+.main-color {
+  background-color: var(--main-color);
+}
+.back-color {
+  background-color: var(--bg-color);
+}
+.text-option {
+  display: flex;
+  justify-content: space-between;
+}
+.Content {
+  position: absolute;
+  right: 0;
+  width: 80%;
+}

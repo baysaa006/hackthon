@@ -1,0 +1,31 @@
+.featureCard {
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0.1) 0%,
+    rgba(255, 255, 255, 0.1) 100%
+  );
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 15px;
+}
+
+.pro {
+  width: 50px;
+  height: 50px;
+}
+/* .proText{
+    font-size: smaller;
+
+} */
+.mail {
+  font-size: small;
+  font-style: italic;
+}
+.coinPro {
+  width: 25px;
+  height: 25px;
+}
+
+.feature {
+  height: 80vh;
+  width: 29%;
+}

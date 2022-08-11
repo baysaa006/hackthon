@@ -1,0 +1,8 @@
+.followbtn{
+    background-color: var(--brand-color);
+
+}
+.followbtn:visited{
+    background-color: red;
+
+}

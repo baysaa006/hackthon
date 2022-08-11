@@ -1,0 +1,45 @@
+.pop {
+  background: #2b3141;
+  width: 961px;
+  height: 400px;
+}
+
+.bg-color {
+  background-color: #1f2636b1;
+  filter: blur(10px);
+}
+.pop-input {
+  background: #1f2636;
+  color: var(--text-color);
+  width: 100%;
+  height: 50px;
+  border: none;
+  box-sizing: border-box;
+  box-shadow: 0px 0px 15px rgba(150, 150, 150, 0.25);
+  border-radius: 10px;
+}
+textarea {
+  color: var(--text-color);
+  background: #1f2636;
+  outline: 1px solid #b5b5b5;
+  box-sizing: border-box;
+  box-shadow: 0px 0px 15px rgba(150, 150, 150, 0.25);
+  border-radius: 10px;
+  height: 180px;
+}
+.image {
+  height: 180px;
+  background: #1f2636;
+  box-sizing: border-box;
+  box-shadow: 0px 0px 15px rgba(150, 150, 150, 0.25);
+  border-radius: 10px;
+}
+input[type=file]::file-selector-button {
+  
+  background: #1f2636;
+  box-shadow: 0;
+  border:none;
+  cursor: pointer;
+  color: var(--text-color);
+
+}

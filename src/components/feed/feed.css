@@ -1,0 +1,45 @@
+.feed {
+  width: 60%;
+  margin: auto;
+}
+.createPost {
+  background-color: var(--bg-color);
+  border-radius: 7px;
+  width: 100%;
+  padding-left: 8px;
+}
+.post-input {
+  font-style: italic;
+  font-weight: 400;
+  font-size: 14px;
+  width: 100%;
+  background-color: var(--bg-color);
+}
+.postCard {
+  width: 100%;
+  height: auto;
+  background-color: var(--bg-color);
+}
+.post-input:hover {
+  height: 50px;
+  color: var(--text-color2);
+}
+.border-radius {
+  border-radius: 7px;
+}
+
+.text-1 {
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 19px;
+  color: rgba(255, 255, 255, 0.74);
+}
+.buttom-text {
+  width: 90%;
+}
+.mintbtn {
+  background-color: #b5bfd6;
+  height: 2rem;
+  width: 4rem;
+  border-radius: 4rem;
+}
